@@ -1,0 +1,15 @@
+{
+	"name": "ramADF128",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7b441784-7baa-4eb8-bc0d-886a34d82425",
+		"tenantId": "de62aff4-5128-4ff5-9a5a-18447f185bae"
+	}
+}
